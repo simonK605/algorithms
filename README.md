@@ -60,5 +60,5 @@ Here you'll find a growing collection of classic and modern algorithms implement
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/algorithms.git
+git clone https://github.com/simonK605/algorithms.git
 cd algorithms
