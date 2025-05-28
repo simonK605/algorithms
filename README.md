@@ -5,12 +5,15 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 ---
 
-[//]: # (## 📚 Contents)
+## 📚 Contents
 
-[//]: # ()
-[//]: # (### 🧩 By Design Paradigm)
+### By Function
 
-[//]: # (- `divide_and_conquer/` – e.g., Merge Sort, Quick Sort, Binary Search)
+- `by_function/` – e.g., Searching, Sorting
+
+### By Design Paradigm
+
+- `design_paradigm/` – e.g., Divide and conquer, brute force, heuristic
 
 [//]: # (- `dynamic_programming/` – e.g., Knapsack, LCS, Fibonacci &#40;Memoization&#41;)
 
