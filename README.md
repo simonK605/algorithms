@@ -19,6 +19,10 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 - `data_structures/` – e.g., Fifo, Lifo, Deque
 
+### By Math
+
+- `math/` – e.g., Factorial, Fibonacci, DFS
+
 ## 🚀 Getting Started
 
 Clone the repository:
