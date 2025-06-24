@@ -27,6 +27,10 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 - `dynamic_programming/` – e.g., Knapsack, Longest Common Subsequence
 
+### By Recursion
+
+- `recursion/` – e.g., Fibonacci, Factorial
+
 ## 🚀 Getting Started
 
 Clone the repository:
