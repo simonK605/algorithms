@@ -23,6 +23,10 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 - `math/` – e.g., Factorial, Fibonacci, DFS
 
+### By Dynamic Programming
+
+- `dynamic_programming/` – e.g., Knapsack, Longest Common Subsequence
+
 ## 🚀 Getting Started
 
 Clone the repository:
