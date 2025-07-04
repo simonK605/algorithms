@@ -7,25 +7,29 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 ## 📚 Contents
 
+### Backtracking
+
+- `backtracking/` – e.g., N queens, Subset Generation
+
 ### By Function
 
 - `by_function/` – e.g., Searching, Sorting
-
-### By Design Paradigm
-
-- `design_paradigm/` – e.g., Divide and Conquer, Brute Force, Heuristic
 
 ### By Data Structures
 
 - `data_structures/` – e.g., Fifo, Lifo, Deque
 
-### By Math
+### By Design Paradigm
 
-- `math/` – e.g., Factorial, Fibonacci, DFS
+- `design_paradigm/` – e.g., Divide and Conquer, Brute Force, Heuristic
 
 ### By Dynamic Programming
 
 - `dynamic_programming/` – e.g., Knapsack, Longest Common Subsequence
+
+### By Math
+
+- `math/` – e.g., Factorial, Fibonacci, DFS
 
 ### By Recursion
 
