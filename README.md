@@ -27,13 +27,21 @@ Here you'll find a growing collection of classic and modern algorithms implement
 
 - `dynamic_programming/` – e.g., Knapsack, Longest Common Subsequence
 
+### Graph
+
+- `graph/` – e.g., Bellman Ford, Bfs, Dfs
+
 ### By Math
 
 - `math/` – e.g., Factorial, Fibonacci, DFS
 
-### By Recursion
+### Recursion
 
 - `recursion/` – e.g., Fibonacci, Factorial
+
+### String Algorithms
+
+- `string_algorithms/` – e.g., Longest Palindromic Substring, Rabin Karp
 
 ## 🚀 Getting Started
 
